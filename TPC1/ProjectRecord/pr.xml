@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC1</keyname>
+        <title>Ontologia para a Sala de Aula</title>
+        <bdate>03-02-2020</bdate>
+        <edate>09-02-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho de casa tinha o intuito de expandir uma <b>ontologia</b> definida da sala de aula, adicionando-lhe duas 
+            UCs (GCS e PRI), os respetivos docentes, bem como todos os alunos presentes na folha de cálculo referente à avaliação da disciplina.
+        </p>
+        <p>
+           Para tal, foram adicionados os docentes e as duas disciplinas à mão à ontologia inicial.
+           De seguida, após o <i>download</i> da folha excel no formato <b>csv</b>, foi elaborado um script em Python que, para cada aluno, escreve em ficheiro
+           as informações do indivíduo a ser criado na sintaxe <i>Turtle</i>. Sendo posteriormente adicionado este output à ontologia inicial.
+        </p>
+        <p>
+            Por fim, foi aplicado o <b>Reasoner</b> do <i>Protegé</i> de modo a obter a ontologia com os axiomas inferidos.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../PRI2019.csv">Ficheiro .csv com os dados dos alunos</deliverable>
+        <deliverable path="../csv2ttl.py">Script python</deliverable>
+        <deliverable path="../alunos.ttl">Ficheiro respetivo aos indivíduos(alunos) gerado pelo script</deliverable>
+        <deliverable path="../SalaAulaInicial.ttl">Ontologia inicial</deliverable>
+        <deliverable path="../SalaAulaFinal.ttl">Ontologia final com os alunos</deliverable>
+        <deliverable path="../SalaAulaInferred.ttl">Ontologia após a aplicação do Reasoner</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>
