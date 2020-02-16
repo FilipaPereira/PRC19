@@ -1,0 +1,33 @@
+//Nomes dos compositores por ordem alfabética
+PREFIX : <http://prc.di.uminho.pt/2020/arquivo-musical#>
+select distinct ?nome where {
+    ?s a :Obra .
+    ?s :compositor ?nome .
+} 
+Order by ?nome
+
+//Titulos das obras do tipo Marcha de Desfile
+PREFIX : <http://prc.di.uminho.pt/2020/arquivo-musical#>
+select ?titulo where {
+    ?s a :Obra .
+    ?s :tipo "Marcha de Desfile" .
+    ?s :titulo ?titulo .
+} 
+
+//Número de partituras de cada obra
+PREFIX : <http://prc.di.uminho.pt/2020/arquivo-musical#>
+select ?s (COUNT(?part) AS ?numPartituras) where {
+    ?s a :Obra .
+    ?instr :eUtilizado ?s .
+    ?part :define ?instr .
+} 
+Group by ?s 
+
+//Titulos das obras com partitura para Bombo
+PREFIX : <http://prc.di.uminho.pt/2020/arquivo-musical#>
+select ?titulo where {
+    ?s a :Obra .
+    ?s :utiliza ?instr .
+    ?instr :designacao "Bombo" .
+    ?s :titulo ?titulo .
+} 
