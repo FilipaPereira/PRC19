@@ -1,0 +1,31 @@
+extends layout
+
+block content
+	.w3-container
+		.w3-card-4
+			header.w3-container.w3-teal.w3-margin-top
+				h3 SPARQL Query
+		form.w3-container.w3-margin-top
+		label
+			b Repositório
+			select.w3-select.w3-border(name='repositorio' id='rep')
+				each r in reps
+					option(value=r)=r
+	.w3-container.w3-left(style="width:50%")
+		label
+			i 
+				b Insira uma Query:
+		textarea.w3-input.w3-border(rows='16' type='text' name='query' placeholder='Query...' id='query')
+		.w3-right
+			button.w3-btn.w3-green.w3-margin(id='exec') Executar
+	.w3-container.w3-right(style="width:50%")
+		label
+			i
+				b Resultados:
+		textarea.w3-input.w3-border(rows='16' type='text' name='result' placeholder='Resultados...' id='resultados')
+		.w3-right
+			button.w3-btn.w3-green.w3-margin(id='limpar') Limpar
+	
+
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC3</keyname>
+        <title>Servidor NodeJS para executar queries SPARQL</title>
+        <bdate>17-02-2020</bdate>
+        <edate>23-02-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho de casa tinha como objetivo a criação de um servidor <i>NodeJS</i> que suporte uma interface para a
+            execução de queries em <b>SPARQL</b>. Assim, é possível escolher o repositório sobre o qual será efetuada a 
+            query e escrever a mesma por texto, sendo que todos os repositórios <i>GraphDB</i> existentes são inicialmente carregados 
+            e o utilizador apenas escolhe o repositório pretendido.
+        </p>
+        <p>
+           Após inserir a query, o utilizador carrega no botão <u>Executar</u>, ao qual está associado uma ação que efetua a query e coloca
+           os resultados da mesma no espaço destinado aos resultados no lado direito da página. Também é possível limpar esta área através 
+           do botão <u>Limpar</u>. Para não ser necessário dar <i>refresh</i> à página e para que esta seja mais reactiva foi utilizado <b>AJAX</b>
+           nas ações associadas aos botões.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../graphdb/routes/index.js">Rota da aplicação</deliverable>
+        <deliverable path="../graphdb/views/index.pug">Ficheiro pug da página principal</deliverable>
+        <deliverable path="../graphdb/public/javascripts/actions.js">Ficheiro auxiliar com ações AJAX</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>
