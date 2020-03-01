@@ -1,0 +1,18 @@
+extends layout
+
+block content
+	.w3-card-4
+		header.w3-teal.w3-border
+			h1 Arquivo de Música Digital
+	.w3-container
+		table.w3-table-all
+			tr
+				th ID
+				th Título
+				th Nº Partituras
+			each o in obras
+				tr
+					td= o.id
+					td
+						a(href="http://localhost:7024/obra/" + o.id)= o.tit
+					td= o.nparts
