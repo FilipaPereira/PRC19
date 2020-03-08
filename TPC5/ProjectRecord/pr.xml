@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC5</keyname>
+        <title>Geração de dataset com dados da DBPedia</title>
+        <bdate>02-03-2020</bdate>
+        <edate>08-03-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            O trabalho de casa desta semana tinha como objetivo gerar um <i>dataset</i> de nadadores através de uma query SPARQL
+            sobre os dados contidos na <b>DBPedia</b>. Este dataset apresenta os seguintes campos:
+            Nome, Género, Data de Nascimento, Local de Nascimento, Data de Falecimento e Abstract, sendo que estes últimos
+            três são opcionais.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../querySwimmers.txt">Query SPARQL para obter o dataset</deliverable>
+        <deliverable path="../swimmers.json">Dataset de Nadadores</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>

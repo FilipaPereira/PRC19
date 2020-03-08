@@ -1,0 +1,20 @@
+select (SAMPLE(?pname) AS ?name) ?gender ?birthDate ?birthplace ?deathDate ?abstract where {
+  ?s a dbo:Swimmer .
+  ?s foaf:name ?pname .
+  ?s foaf:gender ?gender .
+  ?s dbo:birthDate ?birthDate .
+ FILTER (regex(STR(?birthDate),"[0-9]{4}-[0-9]{2}-[0-9]{2}")).
+
+ optional {
+  ?s dbo:birthPlace ?local .
+  ?local dbo:country ?country .
+  ?country rdfs:label ?birthplace .
+  FILTER (lang(?birthplace) = 'en')
+
+  ?s dbo:deathDate ?deathDate .
+  FILTER (regex(STR(?deathDate),"[0-9]{4}-[0-9]{2}-[0-9]{2}")).
+
+  ?s dbo:abstract ?abstract .
+  FILTER (lang(?abstract) = 'en')
+ }
+}
