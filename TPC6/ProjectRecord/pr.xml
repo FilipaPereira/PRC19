@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC6</keyname>
+        <title>Resolução de Ficha sobre Ontologias e SPARQL</title>
+        <bdate>09-03-2020</bdate>
+        <edate>15-03-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            O trabalho de casa desta semana baseava-se na resolução de uma <xref url="http://www4.di.uminho.pt/~jcr/AULAS/didac/RepFichas/site/fichas/prc2018-teste.html">ficha</xref>
+            sobre ontologias composta por 4 exercícios. 
+        </p>
+        <p>
+            A primeira pergunta refere-se ao desenho de um grafo das entidades de uma ontologia, tendo sido usado o <i>draw.io</i> para tal efeito.
+            No segundo exercício foi criada uma ontologia sobre compras (com lojas, clientes e produtos) e de seguida respondidas algumas <i>queries</i> em <b>SPARQL</b> após 
+            o povoamento da ontologia.
+            O terceiro exercício consistiu na exploração da <u>DBPedia</u>, especificando respostas a uma série de questões em <b>SPARQL</b>.
+            Por fim, no último exercício foi utilizada a ontologia sobre Pokemons para responder a algumas <i>queries</i>.   
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../Ex1/ex1-grafo.png">Grafo do Exercício 1</deliverable>
+        <deliverable path="../Ex2/compras.ttl">Ontologia sobre Compras do Exercício 2</deliverable>
+        <deliverable path="../Ex2/queries.txt">Queries do Exercício 2</deliverable>
+        <deliverable path="../Ex3/queries.txt">Queries do Exercício 3</deliverable>
+        <deliverable path="../Ex4/queries.txt">Queries do Exercício 4</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>

@@ -1,0 +1,263 @@
+@prefix : <http://prc.di.uminho.pt/2020/compras#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://prc.di.uminho.pt/2020/compras> .
+
+<http://prc.di.uminho.pt/2020/compras> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://prc.di.uminho.pt/2020/compras#compra
+:compra rdf:type owl:ObjectProperty ;
+        owl:inverseOf :eCompradoPor ;
+        rdfs:domain :Cliente ;
+        rdfs:range :Produto .
+
+
+###  http://prc.di.uminho.pt/2020/compras#eCompradoPor
+:eCompradoPor rdf:type owl:ObjectProperty .
+
+
+###  http://prc.di.uminho.pt/2020/compras#eVendidoPor
+:eVendidoPor rdf:type owl:ObjectProperty ;
+             owl:inverseOf :vende .
+
+
+###  http://prc.di.uminho.pt/2020/compras#vende
+:vende rdf:type owl:ObjectProperty ;
+       rdfs:domain :Loja ;
+       rdfs:range :Produto .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://prc.di.uminho.pt/2020/compras#codigo
+:codigo rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Produto ;
+        rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#designacao
+:designacao rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Produto ;
+            rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#email
+:email rdf:type owl:DatatypeProperty ;
+       rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#nome
+:nome rdf:type owl:DatatypeProperty ;
+      rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://prc.di.uminho.pt/2020/compras#Cliente
+:Cliente rdf:type owl:Class ;
+         rdfs:subClassOf :CompraVenda .
+
+
+###  http://prc.di.uminho.pt/2020/compras#CompraVenda
+:CompraVenda rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2020/compras#Loja
+:Loja rdf:type owl:Class ;
+      rdfs:subClassOf :CompraVenda .
+
+
+###  http://prc.di.uminho.pt/2020/compras#LojaGrande
+:LojaGrande rdf:type owl:Class ;
+            rdfs:subClassOf :Loja .
+
+
+###  http://prc.di.uminho.pt/2020/compras#Produto
+:Produto rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://prc.di.uminho.pt/2020/compras#cliente1
+:cliente1 rdf:type owl:NamedIndividual ,
+                   :Cliente ;
+          :compra :p10 ,
+                  :p3 ,
+                  :p4 ;
+          :email "ana@gmail.com"^^xsd:string ;
+          :nome "Ana"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#cliente2
+:cliente2 rdf:type owl:NamedIndividual ,
+                   :Cliente ;
+          :compra :p1 ,
+                  :p8 ,
+                  :p9 ;
+          :email "pedro@gmail.com"^^xsd:string ;
+          :nome "Pedro"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#cliente3
+:cliente3 rdf:type owl:NamedIndividual ,
+                   :Cliente ;
+          :compra :p4 ,
+                  :p6 ,
+                  :p9 ;
+          :email "mariana@gmail.com"^^xsd:string ;
+          :nome "Mariana"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#cliente4
+:cliente4 rdf:type owl:NamedIndividual ,
+                   :Cliente ;
+          :compra :p2 ,
+                  :p3 ,
+                  :p7 ;
+          :email "luis@gmail.com"^^xsd:string ;
+          :nome "Luis"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#cliente5
+:cliente5 rdf:type owl:NamedIndividual ,
+                   :Cliente ;
+          :compra :p1 ,
+                  :p5 ,
+                  :p7 ;
+          :email "filipe@gmail.com"^^xsd:string ;
+          :nome "Filipe"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#loja1
+:loja1 rdf:type owl:NamedIndividual ,
+                :LojaGrande ;
+       :vende :p10 ,
+              :p2 ,
+              :p6 ;
+       :email "continente@gmail.pt"^^xsd:string ;
+       :nome "Continente"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#loja2
+:loja2 rdf:type owl:NamedIndividual ,
+                :Loja ;
+       :vende :p5 ,
+              :p6 ,
+              :p7 ;
+       :email "acacias@gmail.com"^^xsd:string ;
+       :nome "Acácias"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#loja3
+:loja3 rdf:type owl:NamedIndividual ,
+                :LojaGrande ;
+       :vende :p2 ,
+              :p5 ,
+              :p8 ;
+       :email "pingodoce@gmail.com"^^xsd:string ;
+       :nome "Pingo Doce"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#loja4
+:loja4 rdf:type owl:NamedIndividual ,
+                :Loja ;
+       :vende :p1 ,
+              :p3 ,
+              :p7 ;
+       :email "talho@gmail.com"^^xsd:string ;
+       :nome "Talho do Bairro"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#loja5
+:loja5 rdf:type owl:NamedIndividual ,
+                :LojaGrande ;
+       :vende :p4 ,
+              :p9 ;
+       :nome "Lidl"^^xsd:string ,
+             "lidl@gmail.com"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p1
+:p1 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "A001"^^xsd:string ;
+    :designacao "Lombo de Porco"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p10
+:p10 rdf:type owl:NamedIndividual ,
+              :Produto ;
+     :codigo "H196"^^xsd:string ;
+     :designacao "Oreos"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p2
+:p2 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "C342"^^xsd:string ;
+    :designacao "Pão"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p3
+:p3 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "A092"^^xsd:string ;
+    :designacao "Vitela"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p4
+:p4 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "B123"^^xsd:string ;
+    :designacao "Iogurte"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p5
+:p5 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "N610"^^xsd:string ;
+    :designacao "Guardanapos"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p6
+:p6 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "F132"^^xsd:string ;
+    :designacao "Bananas"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p7
+:p7 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "D892"^^xsd:string ;
+    :designacao "Fiambre"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p8
+:p8 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "D345"^^xsd:string ;
+    :designacao "Vassoura"^^xsd:string .
+
+
+###  http://prc.di.uminho.pt/2020/compras#p9
+:p9 rdf:type owl:NamedIndividual ,
+             :Produto ;
+    :codigo "B799"^^xsd:string ;
+    :designacao "Vodka"^^xsd:string .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
