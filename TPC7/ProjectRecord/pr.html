@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><html>
+   <head>
+      <title>Project Record</title>
+      <meta charset="UTF-8"></meta>
+   </head>
+   <body>
+      <h1>
+         <center>Project Record</center>
+      </h1>
+      
+      <hr></hr>
+      <table width="85%" cellpadding="2px">
+         <tr align="left">
+            <th>
+               <b>KEY NAME:</b>
+            </th>
+            <td>PRC19_TPC7</td>
+            <th>
+               <b>BEGIN DATE:</b>
+            </th>
+            <td>16-03-2020</td>
+         </tr>
+         <tr align="left">
+            <th>
+               <b>TITLE:</b>
+            </th>
+            <td>Inserção de dados da DBPedia na ontologia do Cinema</td>
+            <th>
+               <b>END DATE:</b>
+            </th>
+            <td>22-03-2020</td>
+         </tr>
+         <tr align="left">
+            <th>
+               <b>SUPERVISOR:</b>
+            </th>
+            <td>José Carlos Ramalho - 
+               
+               <a href="mailto:jcr@di.uminho.pt">jcr@di.uminho.pt</a> - 
+               
+               <a href="http://www4.di.uminho.pt/~jcr/">Homepage</a>
+            </td>
+         </tr>
+      </table>
+      <hr></hr>
+      
+      <hr></hr>
+      <h3>WorkTeam:</h3>
+      <table width="100%">
+         
+         <tr>
+            <td>
+               <ul>
+                  <li>A81712 - Ana Filipa Vilela Pereira - 
+                     
+                     <a href="mailto:a81712@alunos.uminho.pt">a81712@alunos.uminho.pt</a>
+                  </li>
+               </ul>
+            </td>
+            <td>
+               <img src="foto.png" width="30%"></img>
+            </td>
+         </tr>
+         
+      </table>
+      <hr></hr>
+      
+      <hr></hr>
+      <h3>Abstract:</h3>
+      
+      <p>
+         O trabalho desta semana tinha como objetivo o povoamento da ontologia do Cinema com
+         dados sobre filmes e atores presentes na 
+         <i>DBPedia</i>.
+         Foram alteradas as duas 
+         <i>queries</i> fornecidas pelo docente de modo a obter os dados com menos repetições. 
+         
+      </p>
+      
+      <p>
+         De seguida foram percorridos os dados e retirada apenas a informação necessária para
+         inserir na ontologia, sendo também 
+         <u>substituído/removido</u> vários
+         caracteres nos identificadores/nomes dos filmes, atores, diretores, etc que não são
+         admitidos em Turtle. A remoção destes caracteres foi um grande
+         obstáculo, visto ser uma grande quantidade de dados que não se encontram muito consistentes.
+         
+      </p>
+      
+      <p>
+         Cada identificador dos diretores, compositores, linguagens, países e escritores foram
+         guardados em arrays para depois efetuar a conversão para o formato .ttl.
+         Cada um destes indivíduos, bem como os referentes aos filmes e atores, foi então convertido
+         para o formato Turtle, originando cada um ficheiro output distinto.
+         Estes ficheiros foram adicionados à ontologia inicial.
+         
+      </p>
+      
+      <hr></hr>
+      
+      <hr></hr>
+      <h3>Deliverables:</h3>
+      <ul>
+         
+         <li>
+            <a href="../cinema/dataset2ttl.js">Conversor dos dados para Turtle</a>
+         </li>
+         
+         <li>
+            <a href="../cinema/dbpedia_queries.txt">Queries usadas para retirar dados da DBPedia</a>
+         </li>
+         
+         <li>
+            <a href="../cinema/dbpedia-films.json">Dataset dos filmes</a>
+         </li>
+         
+         <li>
+            <a href="../cinema/dbpedia-actors.json">Dataset dos atores</a>
+         </li>
+         
+         <li>
+            <a href="../cinema/cinema.ttl">Ontologia inicial do Cinema</a>
+         </li>
+         
+         <li>
+            <a href="../cinema/cinemaFinal.ttl">Ontologia final do Cinema</a>
+         </li>
+         
+         <li>
+            <a href="pr.xml">Project Record - XML</a>
+         </li>
+         
+      </ul>
+      <hr></hr>
+      
+   </body>
+</html>

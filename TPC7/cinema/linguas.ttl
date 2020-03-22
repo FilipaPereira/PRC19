@@ -1,0 +1,3453 @@
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#http:__dbpedia.org_resource_English_language
+:http:__dbpedia.org_resource_English_language rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#http:__dbpedia.org_resource_English_language
+:http:__dbpedia.org_resource_English_language rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#http:__dbpedia.org_resource_English_language
+:http:__dbpedia.org_resource_English_language rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#http:__dbpedia.org_resource_English_language
+:http:__dbpedia.org_resource_English_language rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malayalam
+:Malayalam rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Odia
+:Odia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swedish
+:Swedish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Telugu
+:Telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Danish
+:Danish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AmericanSignLanguage
+:AmericanSignLanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hebrew
+:Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Norwegian
+:Norwegian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Kannada
+:Kannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Korean
+:Korean rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chinese
+:Chinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hungarian
+:Hungarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latvian
+:Latvian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbian
+:Serbian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Japanese
+:English_Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Czech
+:Czech rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croatian
+:Serbo_Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Urdu
+:Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Spanish
+:Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Greek
+:Greek rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Hebrew
+:English_Hebrew rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Persian
+:Persian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent
+:Silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#TunisianArabic
+:TunisianArabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Finnish
+:Finnish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Filipino
+:Filipino rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Romanian
+:Romanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Chechen
+:Chechen rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkish
+:Turkish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Sinhala
+:Sinhala rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_Urdu
+:Hindi_Urdu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Icelandic
+:Icelandic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dutch
+:Dutch rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Estonian
+:Estonian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Albanian
+:Albanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Swahili
+:Swahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#silent
+:silent rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Ukrainian
+:Ukrainian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandKannada
+:EnglishandKannada rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Marathi
+:Marathi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishintertitles
+:Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Swiss_German
+:English_Swiss_German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Thai
+:Thai rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bengali
+:Bengali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Dari
+:Dari rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Paschtun
+:Paschtun rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Igbo
+:Igbo rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#http:__dbpedia.org_resource_English_language
+:http:__dbpedia.org_resource_English_language rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Irish
+:Irish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Latin
+:Latin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MandarinChinese
+:MandarinChinese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mandarin
+:Mandarin rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silentfilm
+:Silentfilm rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishdub
+:Englishdub rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lao
+:Lao rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnamese
+:Vietnamese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Serbo_Croat
+:Serbo_Croat rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#AlsosilentversionwithEnglishintertitles
+:AlsosilentversionwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovene
+:Slovene rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuanian
+:Lithuanian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgarian
+:Bulgarian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aramaic
+:Aramaic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Syriac
+:Syriac rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandsomeSwahili
+:EnglishandsomeSwahili rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi_English
+:Hindi_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tagalog
+:Tagalog rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesian
+:Indonesian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EntertainmentWeekly
+:EntertainmentWeekly rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishlanguage
+:Englishlanguage rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Arabic
+:Arabic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Mongol
+:Mongol rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French_Italian
+:French_Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandYoruba
+:EnglishandYoruba rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijani
+:Azerbaijani rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Yiddish
+:Yiddish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Inuktitut
+:Inuktitut rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian
+:Italian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Gaelic
+:Gaelic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Englishsubtitles
+:Englishsubtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#BahasaIndonesia
+:BahasaIndonesia rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#German
+:German rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Spanish
+:English_Spanish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Manipuri
+:Manipuri rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#MayanLanguages
+:MayanLanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Scots
+:Scots rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamilenglish
+:Tamilenglish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent..Englishtitles
+:Silent..Englishtitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Italian_English
+:Italian_English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil_telugu
+:Tamil_telugu rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#French
+:French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Belarusian
+:Belarusian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SilentwithEnglishintertitles
+:SilentwithEnglishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_French
+:English_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_German_French
+:English_German_French rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Silent...Englishintertitles
+:Silent...Englishintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Turkic
+:Turkic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nepali
+:Nepali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#EnglishandFrench
+:EnglishandFrench rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Germanintertitles
+:Germanintertitles rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Africanlanguages
+:Africanlanguages rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#
+: rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Hindi
+:Hindi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Punjabi
+:Punjabi rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Aymara
+:Aymara rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Malay
+:Malay rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Croatian
+:Croatian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Polish
+:Polish rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Cantonese
+:Cantonese rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Somali
+:Somali rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Nodialogue
+:Nodialogue rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Amharic
+:Amharic rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Tamil
+:Tamil rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#SwissGerman
+:SwissGerman rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English_Russian
+:English_Russian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Wolof
+:Wolof rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#More
+:More rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Bosnian
+:Bosnian rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Slovak
+:Slovak rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :Língua .
+###  http://prc.di.uminho.pt/2020/cinema#Portuguese
+:Portuguese rdf:type owl:NamedIndividual ,
+                :Língua .

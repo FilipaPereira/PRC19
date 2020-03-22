@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC7</keyname>
+        <title>Inserção de dados da DBPedia na ontologia do Cinema</title>
+        <bdate>16-03-2020</bdate>
+        <edate>22-03-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            O trabalho desta semana tinha como objetivo o povoamento da ontologia do Cinema com dados sobre filmes e atores presentes na <i>DBPedia</i>.
+            Foram alteradas as duas <i>queries</i> fornecidas pelo docente de modo a obter os dados com menos repetições. 
+        </p>
+        <p>
+            De seguida foram percorridos os dados e retirada apenas a informação necessária para inserir na ontologia, sendo também <u>substituído/removido</u> vários
+            caracteres nos identificadores/nomes dos filmes, atores, diretores, etc que não são admitidos em Turtle. A remoção destes caracteres foi um grande
+            obstáculo, visto ser uma grande quantidade de dados que não se encontram muito consistentes.
+        </p>
+        <p>
+            Cada identificador dos diretores, compositores, linguagens, países e escritores foram guardados em arrays para depois efetuar a conversão para o formato .ttl.
+            Cada um destes indivíduos, bem como os referentes aos filmes e atores, foi então convertido para o formato Turtle, originando cada um ficheiro output distinto.
+            Estes ficheiros foram adicionados à ontologia inicial.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../cinema/dataset2ttl.js">Conversor dos dados para Turtle</deliverable>
+        <deliverable path="../cinema/dbpedia_queries.txt">Queries usadas para retirar dados da DBPedia</deliverable>
+        <deliverable path="../cinema/dbpedia-films.json">Dataset dos filmes</deliverable>
+        <deliverable path="../cinema/dbpedia-actors.json">Dataset dos atores</deliverable>
+        <deliverable path="../cinema/cinema.ttl">Ontologia inicial do Cinema</deliverable>
+        <deliverable path="../cinema/cinemaFinal.ttl">Ontologia final do Cinema</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>

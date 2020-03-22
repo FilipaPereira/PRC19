@@ -1,0 +1,26 @@
+SELECT ?f ?title ?dir (group_concat(distinct ?wname ; separator=",") as ?writers) (group_concat(distinct ?mname ; separator=",") as ?composers) (group_concat(distinct ?lang ; separator=",") as ?languages)(group_concat(distinct ?country ; separator=",") as ?countries) ?abs
+WHERE {
+    ?f a dbo:Film.
+    ?f foaf:name ?title.
+    ?f dbo:abstract ?abs.
+    filter (lang(?abs)="en").
+    ?f dbo:director ?dir.
+    ?dir foaf:name ?dname .
+    ?f dbo:musicComposer ?music.
+    ?music foaf:name ?mname .
+    ?f dbo:writer ?writer.
+    ?writer foaf:name ?wname .
+    ?f dbp:country ?country.
+    ?f dbp:language ?lang.
+}
+
+SELECT distinct ?a ?aname ?gender ?abs ?bdate WHERE {
+    ?f a dbo:Film.
+    ?f dbo:starring ?a .
+    ?a foaf:name ?aname .
+    ?a dbo:abstract ?abs.
+    filter (lang(?abs)="en").
+    ?a dbo:birthDate ?bdate.
+    filter(regex(STR(?bdate),"[0-9]{4}-[0-9]{2}-[0-9]{2}")).
+    ?a foaf:gender ?gender .
+}

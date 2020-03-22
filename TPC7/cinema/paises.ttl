@@ -1,0 +1,834 @@
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#India
+:India rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#HongKong
+:HongKong rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Spain
+:Spain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Unitedstates
+:Unitedstates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Sweden
+:Sweden rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#China
+:China rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Australia
+:Australia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Brazil
+:Brazil rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Germany
+:Germany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Ireland
+:Ireland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SovietUnion
+:SovietUnion rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Romania
+:Romania rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Scotland
+:Scotland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#PuertoRico
+:PuertoRico rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Mexico
+:Mexico rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Portugal
+:Portugal rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#USA
+:USA rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Denmark
+:Denmark rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands
+:Netherlands rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Belgium
+:Belgium rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Turkey
+:Turkey rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#US
+:US rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Austria
+:Austria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Israel
+:Israel rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Ireland
+:Ireland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Argentina
+:Argentina rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#WestGermany
+:WestGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SouthAfrica
+:SouthAfrica rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Norway
+:Norway rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands
+:Netherlands rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SouthKorea
+:SouthKorea rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Hungary
+:Hungary rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Morocco
+:Morocco rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Russian
+:Russian rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Croatia
+:Croatia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Serbia
+:Serbia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Philippines
+:Philippines rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UK
+:UK rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Czechoslovakia
+:Czechoslovakia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Yugoslavia
+:Yugoslavia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Poland
+:Poland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Taiwan
+:Taiwan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UK
+:UK rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Sweden
+:Sweden rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Greece
+:Greece rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Iran
+:Iran rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Tunisia
+:Tunisia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UAE
+:UAE rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Finland
+:Finland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Pakistan
+:Pakistan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Kazakhstan
+:Kazakhstan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#india
+:india rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#NewZealand
+:NewZealand rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Algeria
+:Algeria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Switzerland
+:Switzerland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Russia
+:Russia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Luxembourg
+:Luxembourg rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands
+:Netherlands rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SriLanka
+:SriLanka rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Iceland
+:Iceland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands
+:Netherlands rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Estonia
+:Estonia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Andorra
+:Andorra rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#CzechRepublic
+:CzechRepublic rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Brazil
+:Brazil rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Nigeria
+:Nigeria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Cuba
+:Cuba rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Malaysia
+:Malaysia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Ukraine
+:Ukraine rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom_UnitedStates
+:UnitedKingdom_UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates_UnitedKingdom
+:UnitedStates_UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#NaziGermany
+:NaziGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom_Italy
+:UnitedKingdom_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStatesUnitedKingdom
+:UnitedStatesUnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_Switzerland
+:Canada_Switzerland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Germany
+:Germany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Afghanistan
+:Afghanistan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#British
+:British rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Singapore
+:Singapore rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France_UnitedKingdom
+:France_UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Bangladesh
+:Bangladesh rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#USA_Spain
+:USA_Spain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UK
+:UK rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Australia
+:Australia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Japan
+:Japan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SFRYugoslavia
+:SFRYugoslavia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#WestGermany
+:WestGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Venezuela
+:Venezuela rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#WestGermany_France_Italy
+:WestGermany_France_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SouthKorea
+:SouthKorea rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Argentina
+:Argentina rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#US
+:US rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Indonesia
+:Indonesia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Israel_UnitedStates
+:Israel_UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Ukraine
+:Ukraine rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Thailand
+:Thailand rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Britain
+:Britain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Bulgaria
+:Bulgaria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_France
+:Italy_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Aruba
+:Aruba rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Chile
+:Chile rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#EastGermany
+:EastGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Spain
+:Spain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SovietUnion_Germany
+:SovietUnion_Germany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Guinea
+:Guinea rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Senegal
+:Senegal rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates_Italy
+:UnitedStates_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Mongolia
+:Mongolia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France_WestGermany
+:France_WestGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UNitedStates
+:UNitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_UnitedStates
+:Italy_UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Egypt
+:Egypt rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Colombia
+:Colombia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Macedonia
+:Macedonia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France_Italy_Austria
+:France_Italy_Austria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Denmark
+:Denmark rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates_Canada
+:UnitedStates_Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#English
+:English rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France_Italy
+:France_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Jordan
+:Jordan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Palestine
+:Palestine rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Azerbaijan
+:Azerbaijan rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#International
+:International rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#co_production
+:co_production rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Vietnam
+:Vietnam rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_France_Spain
+:Italy_France_Spain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#WeimarRepublic
+:WeimarRepublic rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Luxemburg
+:Luxemburg rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Sweden
+:Sweden rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#USSR
+:USSR rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Spain_Italy
+:Spain_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#WestGermany
+:WestGermany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_UK_CzechRepublic
+:Italy_UK_CzechRepublic rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Panama
+:Panama rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#IndiaUSARussia
+:IndiaUSARussia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdomUnitedStates
+:UnitedKingdomUnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UK_Germany
+:UK_Germany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#England
+:England rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Lebanon
+:Lebanon rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Qatar
+:Qatar rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#NewZealand
+:NewZealand rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates_Israel
+:UnitedStates_Israel rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_France
+:Italy_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_France
+:Canada_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SerbiaandMontenegro
+:SerbiaandMontenegro rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_France_Germany_Poland
+:Canada_France_Germany_Poland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands_UnitedKingdom
+:Netherlands_UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Australia
+:Australia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Lithuania
+:Lithuania rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#NewZealand
+:NewZealand rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_UnitedStates
+:Canada_UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Netherlands
+:Netherlands rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Nepal
+:Nepal rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_UnitedKingdom_France
+:Canada_UnitedKingdom_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedArabEmirates
+:UnitedArabEmirates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Belgium
+:Belgium rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada_Italy
+:Canada_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#NewZealand
+:NewZealand rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Germany
+:Germany rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Canada
+:Canada rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Latvia
+:Latvia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SouthKorea
+:SouthKorea rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Franc_Italy
+:Franc_Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Greece
+:Greece rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Bolivia
+:Bolivia rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Japanese
+:Japanese rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Austria
+:Austria rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Poland
+:Poland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Norway
+:Norway rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UK_USA
+:UK_USA rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France_US
+:France_US rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Uganda
+:Uganda rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy_France
+:Italy_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Hungary
+:Hungary rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Australia_UnitedKingdom
+:Australia_UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates_France
+:UnitedStates_France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Cyprus
+:Cyprus rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#SouthAfrica
+:SouthAfrica rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#FranceUnitedKingdom
+:FranceUnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Ireland
+:Ireland rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Argentina_Spain
+:Argentina_Spain rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#BurkinaFaso
+:BurkinaFaso rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#France
+:France rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedKingdom
+:UnitedKingdom rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#UnitedStates
+:UnitedStates rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Italy
+:Italy rdf:type owl:NamedIndividual ,
+                :País .
+###  http://prc.di.uminho.pt/2020/cinema#Portugal
+:Portugal rdf:type owl:NamedIndividual ,
+                :País .
