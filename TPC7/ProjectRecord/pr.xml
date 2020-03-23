@@ -33,7 +33,9 @@
         <p>
             Cada identificador dos diretores, compositores, linguagens, países e escritores foram guardados em arrays para depois efetuar a conversão para o formato .ttl.
             Cada um destes indivíduos, bem como os referentes aos filmes e atores, foi então convertido para o formato Turtle, originando cada um ficheiro output distinto.
-            Estes ficheiros foram adicionados à ontologia inicial.
+            Na criação de cada filme foi também criado o respetivo argumento, sende este relacionado com os escritores. No entanto, não foram criadas peças musicais o que 
+            levou apenas à criação dos compositores como pessoa sem efetuar qualquer ligação.
+            Posteriormente, estes ficheiros foram adicionados à ontologia inicial.
         </p>
     </abstract>
     <deliverables>
