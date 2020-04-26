@@ -35,8 +35,8 @@
     <deliverables>
         <deliverable path="../cinemateca/routes/atores.js">Rota dos Atores</deliverable>
         <deliverable path="../cinemateca/controllers/atores.js">Controlador dos Atores</deliverable>
-        <deliverable path="../filmes/src/Components/ListaAtores.vue">Ficheiro Vue referente à Lista dos Atores</deliverable>
-        <deliverable path="../filmes/src/Components/ConsultaAtor.vue">Ficheiro Vue referente à Página Individual do Ator</deliverable>
+        <deliverable path="../interface/src/components/ListaAtores.vue">Ficheiro Vue referente à Lista dos Atores</deliverable>
+        <deliverable path="../interface/src/components/ConsultaAtor.vue">Ficheiro Vue referente à Página Individual do Ator</deliverable>
         <deliverable path="pr.xml">Project Record - XML</deliverable>
     </deliverables>
 </pr>
