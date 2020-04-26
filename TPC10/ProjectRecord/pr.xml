@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRC19_TPC10</keyname>
+        <title>Interface para Atores de Ontologia de Cinema</title>
+        <bdate>20-04-2020</bdate>
+        <edate>26-04-2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A81712</identifier>
+            <name>Ana Filipa Vilela Pereira</name>
+            <email>a81712@alunos.uminho.pt</email>
+            <photo path="foto.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho de casa tinha como objetivo a implementação da interface relativa aos atores do ontologia de cinema
+            que tem sido trabalhada durante as aulas. Para tal foi necessário não só criar as páginas para a lista de atores e 
+            a respetiva página individual de cada um, mas também atualizar a API de modo a fornecer os dados necessários a essas páginas.
+        </p>
+        <p>
+            Assim, foi criado um novo controlador e roteador para os atores, que responde a dois pedidos GET: <i>/atores</i> e <i>/atores/:id</i>.
+            Na página individual do ator estão listados os filmes em que este participou, bem como a respetiva personagem que interpretou.
+            Na interface, de modo a renderizar as duas novas páginas foram criadas duas <b>views</b>: AtorPrincipal e ConsultaAtor.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../cinemateca/routes/atores.js">Rota dos Atores</deliverable>
+        <deliverable path="../cinemateca/controllers/atores.js">Controlador dos Atores</deliverable>
+        <deliverable path="../filmes/src/Components/ListaAtores.vue">Ficheiro Vue referente à Lista dos Atores</deliverable>
+        <deliverable path="../filmes/src/Components/ConsultaAtor.vue">Ficheiro Vue referente à Página Individual do Ator</deliverable>
+        <deliverable path="pr.xml">Project Record - XML</deliverable>
+    </deliverables>
+</pr>
