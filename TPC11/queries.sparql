@@ -1,0 +1,171 @@
+###1. Lista dos tios de cada pessoa
+select ?pessoa ?pnome (group_concat(?tnome; separator=";") as ?tios) where {
+   ?pessoa :hasParent ?parent .
+   ?pessoa :name ?pnome .
+   ?parent :hasSibling ?tio .
+   filter(?tio != ?parent) .
+   ?tio :name ?tnome .
+}
+group by ?pessoa ?pnome
+
+###2. Lista dos primos de cada pessoa
+select ?pessoa ?pnome (group_concat(?prnome; separator=";") as ?primos) where {
+   ?pessoa :hasParent ?parent .
+   ?pessoa :name ?pnome .
+   ?parent :hasSibling ?tio .
+   filter(?parent != ?tio) .
+   ?tio :hasChild ?primo .
+   ?primo :name ?prnome .
+}
+group by ?pessoa ?pnome
+
+###3. Lista dos ancestores de cada pessoa
+select ?pessoa ?pnome (group_concat(?asc; separator=";") as ?ascs) (count(?a) as ?numAncestores) where {
+   	?pessoa :name ?pnome .
+    ?pessoa :hasParent+ ?a .
+    ?a :name ?asc .
+}
+group by ?pessoa ?pnome
+
+###4. Lista dos descendentes de cada pessoa
+
+select ?pessoa ?pnome (group_concat(?des; separator=";") as ?descs) (count(?d) as ?numDescendentes) where {
+   	?pessoa :name ?pnome .
+    ?pessoa :hasChild+ ?d .
+    ?d :name ?des .
+}
+group by ?pessoa ?pnome
+
+###5. Lista dos cunhados de cada pessoa
+
+select distinct ?pessoa ?pnome ?cunhado ?cnome where {
+    ?pessoa :name ?pnome .
+    {
+        ?pessoa :hasSibling ?irmao .    ##Esposos dos irmãos da pessoa
+        filter(?pessoa != ?irmao) .
+        ?irmao :hasChild ?sobrinho .
+        ?sobrinho :hasParent ?cunhado .
+        filter(?irmao != ?cunhado) .
+    }
+    UNION
+    {
+        ?pessoa :hasChild ?filho .  ##Irmãos do esposo da pessoa
+        ?filho :hasParent ?esposo .
+        filter(?pessoa != ?esposo) .
+        ?esposo :hasSibling ?cunhado .
+        filter(?esposo != ?cunhado) .
+        
+    } 
+    ?cunhado :name ?cnome .
+}
+order by ?pessoa
+
+
+###6. Lista dos sogros de cada pessoa
+
+select distinct ?pessoa ?pnome ?sogro ?snome where {
+    ?pessoa :name ?pnome .
+    ?pessoa :hasChild ?filho .
+    ?filho :hasParent ?par .
+    filter(?par != ?pessoa) .
+    ?par :hasParent ?sogro .
+    ?sogro :name ?snome .
+}
+
+
+###Inserção na ontologia
+
+## Tios 
+
+#Tio
+construct {
+  ?pessoa :hasUncle ?tio .
+}
+where{
+    ?pessoa a :Person .
+    ?pessoa :hasParent ?par .
+    ?par :hasSibling ?tio .
+    ?tio :sex "M" .
+    filter(?tio != ?pessoa) .
+}
+order by ?pessoa
+
+#Tia
+construct {
+  ?pessoa :hasAunt ?tia .
+}
+where{
+    ?pessoa a :Person .
+    ?pessoa :hasParent ?par .
+    ?par :hasSibling ?tia .
+    ?tia :sex "F" .
+    filter(?tia != ?pessoa) .
+}
+order by ?pessoa
+
+##Primos
+
+construct {
+  ?pessoa :hasCousin ?primo .
+}
+where{
+    ?pessoa a :Person .
+    ?pessoa :hasParent ?par .
+    ?par :hasSibling ?tio .
+    filter(?pessoa != ?tio) .
+    ?tio :hasChild ?primo .
+    filter(?pessoa != ?primo) .
+}
+order by ?pessoa
+
+###Ancestores
+
+construct {
+  ?pessoa :hasAncestor ?ancestor .
+}
+where{
+    ?pessoa a :Person .
+    ?pessoa :hasParent+ ?ancestor .
+}
+
+###Descendentes 
+
+construct {
+  ?pessoa :hasDescendant ?descendente .
+}
+where{
+    ?pessoa a :Person .
+    ?pessoa :hasChild+ ?descendente .
+}
+
+###Cunhados 
+
+construct {
+  ?pessoa1 :hasSiblingInLaw ?cunhado1 .
+  ?pessoa2 :hasSiblingInLaw ?cunhado2 .
+}
+where{
+    ?pessoa1 a :Person .
+    ?pessoa1 :hasChild ?filho .
+    ?filho :hasParent ?pessoa2 .
+    filter(?pessoa1 != ?pessoa2) .
+    ?pessoa2 :hasSibling ?cunhado1 .
+    filter(?pessoa2 != ?cunhado1) .
+    ?pessoa1 :hasSibling ?cunhado2 .
+    filter(?pessoa1 != ?cunhado2) .
+}
+
+###Sogros
+
+construct {
+  ?pessoa1 :hasParentInLaw ?sogro2 .
+  ?pessoa2 :hasParentInLaw ?sogro1 .
+}
+where{
+    ?pessoa1 a :Person .
+    ?pessoa1 :hasChild ?filho .
+    ?filho :hasParent ?pessoa2 .
+    filter(?pessoa1 != ?pessoa2) .
+    ?pessoa1 :hasParent ?sogro1.
+    ?pessoa2 :hasParent ?sogro2 .
+}
